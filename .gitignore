@@ -4,4 +4,3 @@ __pycache__
 data.db
 *.pyc 
 .DS_Store
-db.py
