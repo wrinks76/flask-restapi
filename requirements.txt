@@ -6,3 +6,4 @@ marshmallow
 python-dotenv
 pytest
 flask-migrate
+gunicorn
