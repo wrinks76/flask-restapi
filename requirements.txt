@@ -7,3 +7,4 @@ python-dotenv
 pytest
 flask-migrate
 gunicorn
+psycopg2-binary
